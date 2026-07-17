@@ -8,9 +8,13 @@
 
 * 🇬🇧 **English:** [Click here to directly download GhostType v2.3.0](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
 * 🇮🇷 **Persian:** [برای دانلود مستقیم افزونه نسخه v2.3.0 اینجا کلیک کنید](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
-* 🇪🇸 **Spanish:** [Haga clic aquí para descargar directamente GhostType v2.3.0](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
-* 🇸🇦 **Arabic:** [انقر هنا لتحميل إضافة GhostType إصدار v2.3.0 مباشرة](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
 * 🇷🇺 **Russian:** [Нажмите здесь, чтобы напрямую скачать GhostType v2.3.0](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
+* 🇩🇪 **German:** [Klicken Sie hier, um GhostType v2.3.0 direkt herunterzuladen](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
+* 🇹🇷 **Turkish:** [GhostType v2.3.0 sürümünü doğrudan indirmek için buraya tıklayın](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
+* 🇸🇦 **Arabic:** [انقر هنا لتحميل إضافة GhostType إصدار v2.3.0 مباشرة](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
+* 🇬🇷 **Greek:** [Κάντε κλικ εδώ για να κατεβάσετε απευθείας το GhostType v2.3.0](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
+* 🇺🇦 **Ukrainian:** [Натисніть тут, щоб прямо завантажити GhostType v2.3.0](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
+* 🇪🇸 **Spanish:** [Haga clic aquí para descargar directamente GhostType v2.3.0](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
 
 ---
 ## 🌐 Project Description (9 Languages)
