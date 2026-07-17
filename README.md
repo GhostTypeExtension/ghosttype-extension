@@ -11,7 +11,7 @@
 * 🇮🇷 **Persian:** یک افزونه مرورگر با اولویت حریم خصوصی که به طور خودکار متن‌های تایپ‌شده با چیدمان اشتباه کیبورد را در ۹ زبان اصلاح می‌کند.
 * 🇷🇺 **Russian:** Браузерное расширение с приоритетом конфиденциальности, которое автоматически исправляет текст, набранный в неверной раскладке клавиатуры, на 9 языках.
 * 🇩🇪 **German:** Eine datenschutzfreundliche Browser-Erweiterung, die in 9 Sprachen automatisch Text korrigiert, der mit dem falschen Tastaturlayout eingegeben wurde.
-* 🇹🇷 **Turkish:** 9 dilde yanlış klavye düzeniyle yazılmış metinleri otomatik olarak düzelten, gizlilik öncelikli bir tarayıcı uzantısı.
+* 🇹🇷 **Turkish:** 9 dilde yanlış klavye düzeniyle yazılmış metنleri otomatik olarak düzelten, gizlilik öncelikli bir tarayıcı uzantısı.
 * 🇸🇦 **Arabic:** امتداد متصفح يركز على الخصوصية ويقوم تلقائيًا بتصحيح النصوص المكتوبة بتخطيط لوحة مفاتيح خاطئ بـ 9 لغات.
 * 🇬🇷 **Greek:** Μια επέκταση προγράμματος περιήγησης με προτεραιότητα το απόρρητο, η οποία διορθώνει αυτόματα κείμενο που έχει πληκτρολογηθεί με λάθος διάταξη πληκτρολογίου σε 9 γλώσσες.
 * 🇺🇦 **Ukrainian:** Браузерне розширення з пріоритетом приватності, яке автоматично виправляє текст, набранний неправильною розкладкою клавіатури, на 9 мовах.
@@ -30,7 +30,7 @@
 
 ## 🛠️ How to Install (Manual Installation)
 
-Since GhostType is hosted open-source on GitHub, you can easily install it manually in less than a minute by following these steps:
+Since GhostType is hosted on GitHub, you can easily install it manually in less than a minute by following these steps:
 
 1. **Download the Extension:** Go to the **Releases** section on the right side of this page and download the `GhostType.zip` file.
 2. **Extract the File:** Unzip/Extract the downloaded file on your computer. You will get a folder containing the extension files.
@@ -42,6 +42,8 @@ Since GhostType is hosted open-source on GitHub, you can easily install it manua
 
 ---
 
-## 📄 License & Open Source
+## 🔒 Copyright & License
 
-This project is fully open-source. Feel free to review the code, report bugs, or contribute to making GhostType even better.
+© 2026 GhostType. All rights reserved.
+
+Redistribution, modification, or commercial use of this source code, including publishing it to the Google Chrome Web Store, Microsoft Edge Add-ons, or any other extension marketplace without explicit written permission from the owner, is strictly prohibited.
