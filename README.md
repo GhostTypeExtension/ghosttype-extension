@@ -4,10 +4,15 @@
 <img width="889" height="741" alt="GhostType" src="https://github.com/user-attachments/assets/8cd0b5dd-6383-4033-9e15-1c0d55efbece" />
 
 ---
+### 📥 Direct Download Links / لینک‌های دانلود مستقیم
 
-### 📥 [Download GhostType.zip (Latest Version)](https://github.com/GhostTypeExtension/ghosttype-extension/releases/latest)
-### 👈 [دانلود مستقیم آخرین نسخه افزونه (فایل زیپ)](https://github.com/GhostTypeExtension/ghosttype-extension/releases/latest)
+* 🇬🇧 **English:** [Click here to directly download GhostType v2.3.0](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
+* 🇮🇷 **Persian:** [برای دانلود مستقیم افزونه نسخه v2.3.0 اینجا کلیک کنید](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
+* 🇪🇸 **Spanish:** [Haga clic aquí para descargar directamente GhostType v2.3.0](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
+* 🇸🇦 **Arabic:** [انقر هنا لتحميل إضافة GhostType إصدار v2.3.0 مباشرة](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
+* 🇷🇺 **Russian:** [Нажмите здесь, чтобы напрямую скачать GhostType v2.3.0](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.0/GostTaypExtension.zip)
 
+---
 ## 🌐 Project Description (9 Languages)
 
 * 🇬🇧 **English:** A privacy-first browser extension that automatically fixes text typed with the wrong keyboard layout across 9 languages.
