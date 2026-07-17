@@ -1,7 +1,7 @@
-<img width="901" height="749" alt="GhostType" src="https://github.com/user-attachments/assets/384df1b8-b4d9-494a-91ab-d34e37a49e68" /># ghosttype-extension
+# ghosttype-extension
 # 👻 GhostType - Smart Keyboard Layout Fixer
 
-<img width="901" height="749" alt="GhostType" src="https://github.com/user-attachments/assets/1594717f-68e7-461c-a1ab-736f9f782109" />
+<img width="889" height="741" alt="GhostType" src="https://github.com/user-attachments/assets/8cd0b5dd-6383-4033-9e15-1c0d55efbece" />
 
 ---
 
