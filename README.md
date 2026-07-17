@@ -5,6 +5,9 @@
 
 ---
 
+### 📥 [Download GhostType.zip (Latest Version)](https://github.com/GhostTypeExtension/ghosttype-extension/releases/latest)
+### 👈 [دانلود مستقیم آخرین نسخه افزونه (فایل زیپ)](https://github.com/GhostTypeExtension/ghosttype-extension/releases/latest)
+
 ## 🌐 Project Description (9 Languages)
 
 * 🇬🇧 **English:** A privacy-first browser extension that automatically fixes text typed with the wrong keyboard layout across 9 languages.
