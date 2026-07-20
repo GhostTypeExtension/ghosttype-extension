@@ -1,7 +1,7 @@
 # ghosttype-extension
 # 👻 GhostType - Smart Keyboard Layout Fixer
 
-<img width="889" height="741" alt="GhostType" src="https://github.com/user-attachments/assets/8cd0b5dd-6383-4033-9e15-1c0d55efbece" />
+<img width="899" height="753" alt="GhostType" src="https://github.com/user-attachments/assets/38873306-9125-4fd2-99fc-90eff369c77f" />
 
 ---
 ### 📥 Direct Download Links / لینک‌های دانلود مستقیم
