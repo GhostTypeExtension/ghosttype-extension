@@ -6,7 +6,7 @@
 ---
 ### 📥 Direct Download Links / لینک‌های دانلود مستقیم
 
-* 🇬🇧 **English:** [Click here to directly download GhostType v2.3.1](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.1/GostTaypExtension.zip)
+* 🇬🇧 **English:** [Click here to directly download GhostType v2.3.1](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.1/GhostTypeEextensions.zip)
 * 🇮🇷 **Persian:** [برای دانلود مستقیم افزونه نسخه v2.3.1 اینجا کلیک کنید](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.1/GostTaypExtension.zip)
 * 🇷🇺 **Russian:** [Нажмите здесь, чтобы напрямую скачать GhostType v2.3.1](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.1/GostTaypExtension.zip)
 * 🇩🇪 **German:** [Klicken Sie hier, um GhostType v2.3.1 direkt herunterzuladen](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.01/GostTaypExtension.zip)
